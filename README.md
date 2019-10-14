@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://circleci.com/gh/liuhaoyuan28/DevOps-Proj4/12
 
 ## Project Overview
 
